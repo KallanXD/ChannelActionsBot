@@ -1,4 +1,4 @@
-# ChannelActionsBot
+# ChannelActionsBot only
 
 Can be found on telegram as
 [@ChannelActionsBot](https://t.me/ChannelActionsBot)!
